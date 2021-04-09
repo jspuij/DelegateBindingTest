@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateBindingTest", "DelegateBindingTest\DelegateBindingTest.csproj", "{FC071A4F-338E-4F04-85DD-F894BE97EEF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC071A4F-338E-4F04-85DD-F894BE97EEF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC071A4F-338E-4F04-85DD-F894BE97EEF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC071A4F-338E-4F04-85DD-F894BE97EEF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC071A4F-338E-4F04-85DD-F894BE97EEF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F35E785-92D4-4241-9C3F-6EF11F09A51D}
+	EndGlobalSection
+EndGlobal
